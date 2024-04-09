@@ -10,3 +10,8 @@
 # Your Python code here
 def greet(name):
     print("Hello, " + name + "!")
+
+- [x] Learn Markdown syntax
+- [ ] Practice writing Markdown documents
+- [ ] Share Markdown tips with a friend
+
